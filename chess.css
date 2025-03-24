@@ -1,0 +1,17 @@
+.ChessBox{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.black {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+  }
+  .red {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+  }
